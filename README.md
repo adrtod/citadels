@@ -19,16 +19,10 @@ Roadmap
 
 Release notes
 ==================
-Version 0.1 (01-2015) :
------------------------
-- [x] the thief can NOT steal the murdered role
-- [x] each player receives 4 quarters and 2 coins at the beginning
-- [x] draw the crown player at the beginning
-- [x] adjust probabilities of `choose_random_action`
-- [x] the magician can, at ANY moment in his turn
-  - exchange ALL his hand against another player's hand
-  - OR discard a number of cards and draw the same number IN THE DECK
-- [x] the condottiere can NOT attack a city already over (with 8 quarters)
+Version 0.1 (01-2015)
+---------------------
+Initial version
+Can play random games with random players
 
 Todo
 ==================
