@@ -1,0 +1,9 @@
+Package: citadels
+Title: Play random games of Citadels
+Version: 0.1
+Authors@R: "Adrien Todeschini <adrien.todeschini@gmail.com> [aut, cre]"
+Description: Play random games of Citadels
+Depends:
+    R (>= 3.1.2)
+License: GPL-2
+LazyData: true
