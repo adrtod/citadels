@@ -6,7 +6,7 @@ Author
 ==================
 Copyright 2015 Adrien Todeschini <adrien.todeschini@gmail.com>
 
-Released under the GPL-2 licensed
+Released under the GPL-2 license
 
 Roadmap
 ========
