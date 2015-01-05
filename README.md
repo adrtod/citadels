@@ -22,6 +22,7 @@ Release notes
 Version 0.1 (01-2015)
 ---------------------
 Initial version
+
 Can play random games with random players
 
 Todo
