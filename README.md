@@ -2,11 +2,13 @@ citadels
 =============
 Play random games of [Citadels](http://en.wikipedia.org/wiki/Citadels_(card_game))
 
+[![Build Status](https://travis-ci.org/adrtod/citadels.png?branch=master)](https://travis-ci.org/adrtod/citadels)
+
 Author
 ==================
 Copyright 2015 Adrien Todeschini <adrien.todeschini@gmail.com>
 
-Released under the GPL-2 license
+License: GPL-2
 
 Roadmap
 ========
@@ -21,9 +23,7 @@ Release notes
 ==================
 Version 0.1 (01-2015)
 ---------------------
-Initial version
-
-Can play random games with random players
+Initial version. Can play random games with random players.
 
 Todo
 ==================
