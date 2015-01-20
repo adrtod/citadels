@@ -1,14 +1,13 @@
 citadels
 =============
-Play random games of [Citadels](http://en.wikipedia.org/wiki/Citadels_(card_game))
-
 [![Build Status](https://travis-ci.org/adrtod/citadels.png?branch=master)](https://travis-ci.org/adrtod/citadels)
+
+Play random games of [Citadels](http://en.wikipedia.org/wiki/Citadels_(card_game))
 
 Getting started
 =======
 Install the latest version of the R package from github
 ```r
-require(devtools)
 devtools::install_github("adrtod/citadels")
 ```
 
