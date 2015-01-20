@@ -7,13 +7,13 @@ Play random games of [Citadels](http://en.wikipedia.org/wiki/Citadels_(card_game
 Getting started
 =======
 Install the latest version of the R package from github
-```
+```r
 require(devtools)
 devtools::install_github("adrtod/citadels")
 ```
 
 Play a random game with 3 players
-```
+```r
 library(citadels)
 game(list_players(3), quiet = FALSE)
 ```
