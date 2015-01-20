@@ -21,7 +21,7 @@ game(list_players(3), quiet = FALSE)
 
 Author
 ==================
-Copyright 2015 Adrien Todeschini <adrien.todeschini@gmail.com>
+Copyright (C) 2015 Adrien Todeschini <adrien.todeschini@gmail.com>
 
 License: GPL-2
 
