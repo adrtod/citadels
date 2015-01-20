@@ -15,7 +15,6 @@ devtools::install_github("adrtod/citadels")
 Play a random game with 3 players
 ```
 library(citadels)
-
 game(list_players(3), quiet = FALSE)
 ```
 
