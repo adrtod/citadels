@@ -2,7 +2,7 @@ citadels
 =============
 Play random games of [Citadels](http://en.wikipedia.org/wiki/Citadels_(card_game))
 
-[![Build Status](https://travis-ci.org/adrtod/citadels.png?branch=master)](https://travis-ci.org/adrtod/citadels)
+[![Build Status](https://travis-ci.org/adrtod/citadels.svg?branch=master)](https://travis-ci.org/adrtod/citadels)
 
 Getting started
 =======
